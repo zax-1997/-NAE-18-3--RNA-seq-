@@ -1,0 +1,15 @@
+Status	/home/zax/AA/bam/SRR10435452.sorted.bam	/home/zax/AA/bam/SRR10435453.sorted.bam	/home/zax/AA/bam/SRR10435454.sorted.bam	/home/zax/AA/bam/SRR10435455.sorted.bam	/home/zax/AA/bam/SRR10435456.sorted.bam	/home/zax/AA/bam/SRR10435457.sorted.bam
+Assigned	25634172	24910012	25452365	23986313	19940510	25822323
+Unassigned_Unmapped	195497	173116	147778	123349	111019	122863
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	1985904	1919103	2607438	2106031	2172556	2122294
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	168014	156211	229078	255858	233819	226299
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	1093077	1064604	1192776	902385	833933	1015013
